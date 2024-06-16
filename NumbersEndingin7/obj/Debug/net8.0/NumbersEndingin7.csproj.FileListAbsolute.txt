@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\bin\Debug\net8.0\NumbersEndingin7.exe
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\bin\Debug\net8.0\NumbersEndingin7.deps.json
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\bin\Debug\net8.0\NumbersEndingin7.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\bin\Debug\net8.0\NumbersEndingin7.dll
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\bin\Debug\net8.0\NumbersEndingin7.pdb
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.dll
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\refint\NumbersEndingin7.dll
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.pdb
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\NumbersEndingin7.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumbersEndingin7\NumbersEndingin7\obj\Debug\net8.0\ref\NumbersEndingin7.dll
